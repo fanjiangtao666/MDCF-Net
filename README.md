@@ -24,4 +24,9 @@ train_IV_V2.py: The main training script. This is the project's entry point, whi
 This file defines the Model class and network parsing logic. It is not intended to be run directly as a script. It should be imported and used by a main training or inference script.
 """
 
+## Dataset
+[LLVIP]([https://github.com/bupt-ai-cz/LLVIP?tab=readme-ov-file](https://github.com/bupt-ai-cz/LLVIP/blob/main/download_dataset.md))
+[FLIR](https://drive.google.com/file/d/1xHDMGl6HJZwtarNWkEV3T4O9X4ZQYz2Y/view)
 
+## Ackowledgement
+This code is based on the implementations of [This](https://github.com/bupt-ai-cz/LLVIP) 
