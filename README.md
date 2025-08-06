@@ -1,6 +1,9 @@
 # MDCF-Net
 This repository contains the implementation of 'MDCF-Net: Modality Decomposition and Compensation Fusion Network for Infrared-Visible Object Detection', a deep learning model designed for infrared and visible light object detection. This work has been accepted by ECAI 2025. If you think this paper can help you, please cite this paper
 
+<img width="4464" height="1623" alt="image" src="https://github.com/user-attachments/assets/4a68b408-f82b-41d9-ae64-ba7c6e92d50c" />
+
+
 ✨✨✨
 File Structure and Core Files
 
