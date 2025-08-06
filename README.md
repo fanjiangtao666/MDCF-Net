@@ -1,11 +1,10 @@
 # MDCF-Net
 This repository contains the implementation of 'MDCF-Net: Modality Decomposition and Compensation Fusion Network for Infrared-Visible Object Detection', a deep learning model designed for infrared and visible light object detection. This work has been accepted by ECAI 2025. If you think this paper can help you, please cite this paper
 
-💡💡💡
-
 ✨✨✨
 File Structure and Core Files
 
+💡💡💡
 Model/
 
 yolov5l_IV_V2.yaml: The model architecture blueprint. This is a YAML configuration file that defines each layer of the network, including the dual-stream backbone, the fusion module, and the detection head.
