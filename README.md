@@ -4,7 +4,6 @@ This repository contains the implementation of 'MDCF-Net: Modality Decomposition
 ✨✨✨
 File Structure and Core Files
 
-💡💡💡
 Model/
 
 yolov5l_IV_V2.yaml: The model architecture blueprint. This is a YAML configuration file that defines each layer of the network, including the dual-stream backbone, the fusion module, and the detection head.
